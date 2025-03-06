@@ -14,7 +14,7 @@ function App() {
     }
 
     return (
-        <div id="App">
+        <div id="App bg-red-100">
             <img src={logo} id="logo" alt="logo"/>
             <div id="result" className="result">{resultText}</div>
             <div id="input" className="input-box">
